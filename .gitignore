@@ -1,0 +1,31 @@
+# Python bytecode files
+*.py[cod]
+*$py.class
+__pycache__/
+
+# C extensions
+*.so
+
+# log files
+*.log
+*.lock
+
+# celery
+celerybeat-schedule
+
+# vsode config
+.vscode
+
+# log floder
+logs
+logs/*.log
+logs/*.lock
+
+# data floder
+data
+
+# global conf
+conf/global
+
+
+
